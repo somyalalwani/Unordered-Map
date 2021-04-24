@@ -1,6 +1,6 @@
 ## Data Structures & Algorithms for Problem Solving
 
-**Problem : Hashing
+**Problem : Hashing**
 
 **Task** : Implement an Unordered Map.
 
